@@ -1,0 +1,77 @@
+                              AK360
+                         Virtual Keyboard
+                          Version 1.0.1
+                     
+What is it?
+-----------
+
+The AK360 is an innovative virtual keyboard enabling to type all
+alphanumeric characters only by using a standard gamepad's analog
+sticks. It was build as an alternative software solution of the 
+virtual keyboard currently used by gaming consoles. The main aim 
+of the release is to involve gamers and enthusiasts across the
+world into the testing of it and at the same time to collect a
+relevant statistics about its usage.
+
+
+Requirements
+------------
+
+To be able use this program is required a gamepad with two
+functional analog sticks. Try to calibrate your gamepad
+properly first. It is recommended to use original PlayStation or
+XBox gamepad. If the program recoginses your gamepad, you will be
+able to freely type and control your OS.
+
+
+Controls
+--------
+
+To type use left and right analog stick and a combination of them
+both. PRESS Button 10 (or Start button) open Menu. Menu contains
+section Stats, Option and Controls, where are defined all
+functions for each button in schemes.
+
+
+Statistics
+----------
+
+In the Stats section can be found Current and Overall statistics
+refering to your writing. There is measured speed, number of used
+chars and keys. Every single statistic record is written also in
+the file "Stats.txt" from a root directory.
+
+After sucessfull ending of the program, new statistic will be
+sent to out to be analysed. Data sent to the server contains ONLY
+calculated statistics, but definetely NOT a content of the
+writing. Therefore DO NOT PREVENT this program from sending 
+statistic data.
+
+
+License
+-------
+
+2012 Stanislav Kohut. Program is free and opne-source.
+
+Distribution of this program must be free and in original form.
+Every effort has been made to ensure that no problems occur with
+its usage, but the author makes no warranties about it and
+accepts no responsibility for any data loss or other system
+trouble that may occur from its usage.
+
+
+Contact
+-------
+
+For bug reporting, feature requests or anything else concerning
+the AK360 keyboard use this contact:
+
+e-mail: kohut.stanislav@gmail.com
+twitter: @StanislavKohut
+blog: http://stanyko.posterous.com
+
+Fixed
+-----
+
+Version 1.0.1 - fixed bug with gamepads with a differend number of buttons
+	            - added feature to change controls directly in a file "Option_button.txt" from root directory  
